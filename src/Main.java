@@ -37,7 +37,7 @@ public class Main {
         int number1 = in.nextInt();
         System.out.print("Enter your second number: ");
         int number2 = in.nextInt();
-        System.out.println("Your Sum is: " +(number1+number2));
+        System.out.println("Your Sum of numbers is: " +(number1+number2));
 
         in.close();
 
